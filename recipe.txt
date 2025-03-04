@@ -1,0 +1,5 @@
+RECIPE LIST
+CAKE01:flour,140.00-g|sugar,80.00-g|egg,88.00-g
+CAKE02:flour,100.00-g|sugar,80.00-g|egg,60.00-g
+BUN01:flour,100.00-g|sugar,60.00-g|butter,60.00-g
+COOKIE01:egg,100-g

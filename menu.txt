@@ -1,0 +1,4 @@
+MENU
+CAKE01|Butter cake 100g
+BUN01|Sweet bun 100g
+COOKIE01|Chocolate cookie

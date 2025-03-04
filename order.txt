@@ -1,0 +1,3 @@
+ORDER
+CAKE01|Butter cake 100g|15
+BUN01|Chocolate cookie|30

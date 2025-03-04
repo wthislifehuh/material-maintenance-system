@@ -1,0 +1,7 @@
+INGREDIENT
+flour|g|2000.50
+butter|g|4040.00
+egg|g|4890.00
+baking powder|g|5909.50
+sugar|g|2060.00
+salt|g|2000.00
